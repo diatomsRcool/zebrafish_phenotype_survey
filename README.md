@@ -13,7 +13,7 @@ The ontology terms provided in survey 2 were selected from the endpoint annotati
 The results from survey 1 are in *Zebrafish Screening Survey 1 - summary by annotator.tsv*. 
 
 | Column Header | Definition | Values |
---------------------------------------
+| ------------- | ---------- | ------ |
 | Participant_Identifier | Anonymized identifier for survey participants | Integer 1-18 |
 | Embryo_Number | Unique identifier for each embryo image | Integer 1-26 |
 | Verbatim_Annotation | Free-text response from participant | Alphanumeric string |
