@@ -10,7 +10,7 @@ Survey participants were solicited via email from the professional networks of t
 Participants were asked to take two surveys. The first survey was a Google Form with 24 lateral images each with a single zebrafish embryo from the VAST (Vertebrate Automates Screening Technology)-System. In the first survey, participants were instructed to annotate each image with toxicological endpoints as they would in their lab and were provided with a free text response box. Participants were asked to separate individual endpoints with a semicolon. The second survey was a Google Spreadsheet with the same 24 images in a different order. Participants were provided with a multiple-choice list of 48 ontology terms and their definitions and were instructed to choose all that applied. 
 The ontology terms provided in survey 2 were selected from the endpoint annotations in survey 1. Each endpoint annotation was matched with as specific an ontology term as possible from ZPO. All of the matching was performed by one person. Each endpoint was also categorized using a more general term for analysis. For example, a heart edema endpoint was transformed to an abnormal heart endpoint for the general term calculations.
 #### Survey 1 Data
-The results from survey 1 are in *Zebrafish Screening Survey 1 - summary by annotator.tsv*. 
+The results from survey 1 are in *Zebrafish_Screening_Survey_1_summary_by_annotator.tsv*. 
 
 | Column Header | Definition | Values |
 | ------------- | ---------- | ------ |
@@ -20,7 +20,7 @@ The results from survey 1 are in *Zebrafish Screening Survey 1 - summary by anno
 | Granular_Annotation_CURIE | Identifier from an ontology that most closely describes the free-text annotation | Can include "normal" or CURIE from Zebrafish Phenotype Ontology |
 | General_Annotation_CURIE | Identifier from an ontology for the category of endpoint observed | Can include "normal" or CURIE from Zebrafish Phenotype Ontology |
 
-The results from survey 2 are in *Zebrafish Screening Survey 2 - summary by annotator.tsv*.
+The results from survey 2 are in *Zebrafish_Screening_Survey_2_summary_by_annotator.tsv*.
 
 | Column Header | Definition | Values |
 | ------------- | ---------- | ------ |
