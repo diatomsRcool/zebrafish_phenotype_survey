@@ -11,6 +11,7 @@ Participants were asked to take two surveys. The first survey was a Google Form 
 The ontology terms provided in survey 2 were selected from the endpoint annotations in survey 1. Each endpoint annotation was matched with as specific an ontology term as possible from ZPO. All of the matching was performed by one person. Each endpoint was also categorized using a more general term for analysis. For example, a heart edema endpoint was transformed to an abnormal heart endpoint for the general term calculations.
 #### Survey 1 Data
 The results from survey 1 are in *Zebrafish Screening Survey 1 - summary by annotator.tsv*. 
+
 | Column Header | Definition | Values |
 --------------------------------------
 | Participant_Identifier | Anonymized identifier for survey participants | Integer 1-18 |
@@ -20,6 +21,7 @@ The results from survey 1 are in *Zebrafish Screening Survey 1 - summary by anno
 | General_Annotation_CURIE | Identifier from an ontology for the category of endpoint observed | Can include "normal" or CURIE from Zebrafish Phenotype Ontology |
 
 The results from survey 2 are in *Zebrafish Screening Survey 2 - summary by annotator.tsv*.
+
 | Column Header | Definition | Values |
 --------------------------------------
 | Participant_Identifier | Anonymized identifier for survey participants | Integer 1-18 |
@@ -28,6 +30,7 @@ The results from survey 2 are in *Zebrafish Screening Survey 2 - summary by anno
 | General_Annotation_CURIE | Identifier from an ontology for the category of endpoint observed | Can include "normal" or CURIE from Zebrafish Phenotype Ontology |
 
 The embryos were assigned different numbers in surveys 1 and 2. The mapping for those numbers is in *embryo_image_map.tsv*
+
 | Column Header | Definition | Values |
 --------------------------------------
 | Embryo_Number_Survey_2 | Unique identifier for each embryo image | Integer 1-26 |
