@@ -1,4 +1,4 @@
-Rater	Embryo Number	Annotation CURIE	Annotation Category CURIE		
+Participant_Identifier	Embryo_Number	Granular_Annotation_CURIE	General_Annotation_CURIE		
 3	3	normal	normal		
 3	25	normal	normal		
 3	9	ZP:0000043	ZP:0000943		
