@@ -23,7 +23,7 @@ The results from survey 1 are in *Zebrafish Screening Survey 1 - summary by anno
 The results from survey 2 are in *Zebrafish Screening Survey 2 - summary by annotator.tsv*.
 
 | Column Header | Definition | Values |
---------------------------------------
+| ------------- | ---------- | ------ |
 | Participant_Identifier | Anonymized identifier for survey participants | Integer 1-18 |
 | Embryo_Number | Unique identifier for each embryo image | Integer 1-26 |
 | Granular_Annotation_CURIE | Identifier from an ontology that most closely describes the free-text annotation | Can include "normal" or CURIE from Zebrafish Phenotype Ontology |
@@ -32,6 +32,6 @@ The results from survey 2 are in *Zebrafish Screening Survey 2 - summary by anno
 The embryos were assigned different numbers in surveys 1 and 2. The mapping for those numbers is in *embryo_image_map.tsv*
 
 | Column Header | Definition | Values |
---------------------------------------
+| ------------- | ---------- | ------ |
 | Embryo_Number_Survey_2 | Unique identifier for each embryo image | Integer 1-26 |
 | Embryo_Number_Survey_1 | Unique identifier for each embryo image | Integer 1-26 |
