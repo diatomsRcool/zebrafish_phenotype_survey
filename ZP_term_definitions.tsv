@@ -1,0 +1,49 @@
+term			identifier	definition
+normal	normal			no abnormalities visible
+abnormal	abnormal		ZP:0005632	Abnormal(ly) organismal quality (of) whole organism
+	abnormal jaw		ZP:0007203	Abnormal(ly) morphology (of) ventral mandibular arch.
+	abnormal jaw	abnormally small jaw	ZP:0000916	Abnormal(ly) decreased size (of) ventral mandibular arch
+	abnormal jaw	abnormally large jaw	ZP:0015011	Abnormal(ly) increased size (of) ventral mandibular arch
+	abnormal axis		ZP:0127724	Abnormality of axis
+	abnormal axis	abnormally curved axis	ZP:0005012	Abnormal(ly) curved (of) axis
+	abnormal tail		ZP:0001129	Abnormal(ly) morphology (of) tail bud
+	abnormal tail	abnormal tail fin	ZP:0004969	Abnormal(ly) morphology (of) caudal fin
+	abnormal tail	abnormally short tail	ZP:0001130	Abnormal(ly) decreased length (of) tail bud
+	abnormal tail	abnormally curved tail	ZP:0010319	Abnormal(ly) shape (of) tail bud
+	abnormal body length		ZP:0012799	Abnormal(ly) length (of) whole organism
+	abnormal body length	abnormally decreased body length	ZP:0000473	Abnormal(ly) decreased length (of) whole organism
+	abnormal trunk		ZP:0003437	Abnormal(ly) morphology (of) trunk
+	abnormal swim bladder		ZP:0127709	Abnormality of swim bladder
+	abnormal swim bladder	abnormally small swim bladder	ZP:0005125	Abnormal(ly) decreased size (of) swim bladder
+	abnormal swim bladder	uninflated swim bladder	ZP:0001211	Abnormal(ly) uninflated (of) swim bladder
+	abnormal swim bladder	absent swim bladder	ZP:0002944	Abnormal(ly) absent (of) swim bladder
+	abnormal head		ZP:0001609	Abnormal(ly) morphology (of) head
+	abnormal head	microcephaly	ZP:0000054	Abnormal(ly) decreased size (of) head
+	abnormal head	abnormally necrotic head	ZP:0002311	Abnormal(ly) necrotic (of) head
+	abnormal head	hemhorragic head	ZP:0003678	Abnormal(ly) hemorrhagic (of) head
+	abnormal brain		ZP:0000100	Abnormal(ly) morphology (of) brain
+	abnormal snout		ZP:0014550	Abnormal(ly) malformed (of) snout
+	abnormal eye		ZP:0000943	Abnormal(ly) morphology (of) eye
+	abnormal eye	abnormally small eye	ZP:0000043	Abnormal(ly) decreased size (of) eye
+	abnormal heart		ZP:0000107	Abnormal(ly) morphology (of) heart
+	abnormal heart	blood accumulation in heart	ZP:0005930	Abnormal(ly) accumulation (of) blood (pericardium)
+	abnormal heart	heart edema	ZP:0001192	Abnormal(ly) edematous (of) heart
+	abnormal otic vescicle		ZP:0001601	Abnormal(ly) morphology (of) otic vesicle
+	abnormal yolk		ZP:0002676	Abnormal(ly) morphology (of) yolk
+	abnormal yolk	yolk sac edema	ZP:0002060	Abnormal(ly) edematous (of) yolk
+	abnormal yolk	abnormally large yolk	ZP:0000102	Abnormal(ly) increased size (of) yolk
+	abnormal yolk	bloody yolk	ZP:0006124	Abnormal(ly) accumulation (of) yolk (blood)
+	abnormal yolk	abnormally condensed yolk	ZP:0016092	Abnormal(ly) condensed (of) yolk
+	abnormal yolk	necrotic yolk	ZP:0002197	Abnormal(ly) necrotic (of) yolk
+	abnormal pectoral fin		ZP:0001610	Abnormal(ly) morphology (of) pectoral fin
+	abnormal gut morphology		ZP:0002008	Abnormal(ly) morphology (of) gut
+	abnormal gut morphology	abnormally large gut	ZP:0016128	Abnormal(ly) increased size (of) gut
+	abnormal pigmentation		ZP:0015121	Abnormal(ly) quality (of) pigmentation
+	abnormal pigmentation	abnormally increased pigmentation	ZP:0019090	Abnormal(ly) increased amount (of) pigmentation
+	abnormal notochord		ZP:0000624	Abnormal(ly) morphology (of) notochord
+	abnormal notochord	abnormally bent notochord	ZP:0000627	Abnormal(ly) bent (of) notochord
+	abnormal notochord	abnormally curved notochord	ZP:0009010	Abnormal(ly) curved (of) notochord
+	abnormal notochord	abnormally undulate notochord	ZP:0000122	Abnormal(ly) undulate (of) notochord
+	abnormal notochord	notochord absent	ZP:0007632	Abnormal(ly) absent (of) notochord
+	dead		ZP:0000306	Abnormal(ly) dead (of) whole organism
+	dead	necrosis	ZP:0000398	Abnormal(ly) necrotic (of) whole organism
