@@ -1,4 +1,4 @@
-Participant Identifier	Embryo Number	Verbatim Annotation	Annotation CURIE	Annotation Category CURIE
+Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CURIE	General_Annotation_CURIE
 3	5	No malformations	normal	normal
 3	6	No malformations	normal	normal
 3	9	No malformations	normal	normal
