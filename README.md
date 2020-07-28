@@ -35,3 +35,12 @@ The embryos were assigned different numbers in surveys 1 and 2. The mapping for 
 | ------------- | ---------- | ------ |
 | Embryo_Number_Survey_2 | Unique identifier for each embryo image | Integer 1-26 |
 | Embryo_Number_Survey_1 | Unique identifier for each embryo image | Integer 1-26 |
+
+The mapping between general and granular terms and the CURIES and definitions are in *ZP_term_definitions.tsv*.
+
+| Column Header | Definition | Values |
+| ------------- | ---------- | ------ |
+| general_term | human-readable label for general term | Alphanumeric string |
+| granular_term | human-readable label for granular term | Alphanumeric string |
+| ZPO_CURIE | corresponding CURIE from Zebrafish Phenotype Ontology | URI |
+| definition | definition of term from Zebrafish Phenotype Ontology | Alphanumeric string |
