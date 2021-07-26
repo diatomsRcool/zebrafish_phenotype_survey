@@ -760,8 +760,8 @@ Participant_Identifier	Embryo_Number	Granular_Annotation_CURIE	General_Annotatio
 2	22	ZP:0015121	ZP:0015121
 12	3	normal	normal
 12	25	normal	normal
-12	2	Not Available	Not Available22
-12	4	Not Available	Not Available26
+12	2	Not Available	Not Available
+12	4	Not Available	Not Available
 12	5	Not Available	Not Available
 12	6	Not Available	Not Available
 12	9	Not Available	Not Available
@@ -1779,7 +1779,7 @@ Participant_Identifier	Embryo_Number	Granular_Annotation_CURIE	General_Annotatio
 15	20	ZP:0001696	ZP:0001696
 15	23	ZP:0001696	ZP:0001696
 15	24	ZP:0001696	ZP:0001696
-13	3	normal	normal1
+13	3	normal	normal
 13	13	Not Available	ZP:0001609
 13	15	Not Available	ZP:0002676
 13	15	Not Available	ZP:0002008
