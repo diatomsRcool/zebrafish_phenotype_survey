@@ -1,0 +1,84 @@
+
+Repeatability estimation using glmer method
+
+Call = rpt(formula = Call ~ (1 | Embryo) + (1 | Annotation) + (1 | Rater), grname = c("Embryo", "Annotation", "Rater"), data = df[df$Survey == survey, ], datatype = "Binary", nboot = 500, npermut = 0)
+
+Data: 15840 observations
+----------------------------------------
+
+Embryo (24 groups)
+
+Repeatability estimation overview: 
+          R     SE   2.5%  97.5% P_permut
+Org  0.0658 0.0212 0.0297  0.112       NA
+Link 0.0675 0.0224 0.0304  0.117       NA
+
+
+Bootstrapping: 
+          N   Mean Median   2.5%  97.5%
+Org     500 0.0632 0.0619 0.0297  0.112
+Link    500 0.0651 0.0636 0.0304  0.117
+
+Permutation test: 
+          N   Mean Median   2.5%  97.5% P_permut
+Org       1     NA     NA     NA     NA       NA
+Link      1     NA     NA     NA     NA       NA
+
+Likelihood ratio test: 
+logLik full model = -4607.275
+logLik red. model = -4966.296
+D  = 718, df = 1, P = 1.78e-158
+
+----------------------------------------
+
+
+Annotation (44 groups)
+
+Repeatability estimation overview: 
+          R     SE   2.5%  97.5% P_permut
+Org   0.108 0.0287 0.0590  0.169       NA
+Link  0.111 0.0308 0.0599  0.178       NA
+
+
+Bootstrapping: 
+          N   Mean Median   2.5%  97.5%
+Org     500  0.108  0.108 0.0590  0.169
+Link    500  0.111  0.111 0.0599  0.178
+
+Permutation test: 
+          N   Mean Median   2.5%  97.5% P_permut
+Org       1     NA     NA     NA     NA       NA
+Link      1     NA     NA     NA     NA       NA
+
+Likelihood ratio test: 
+logLik full model = -4607.275
+logLik red. model = -5450.479
+D  = 1690, df = 1, P = 0
+
+----------------------------------------
+
+
+Rater (15 groups)
+
+Repeatability estimation overview: 
+          R      SE    2.5%  97.5% P_permut
+Org  0.0186 0.00724 0.00675 0.0342       NA
+Link 0.0191 0.00754 0.00688 0.0360       NA
+
+
+Bootstrapping: 
+          N   Mean Median    2.5%  97.5%
+Org     500 0.0184 0.0175 0.00675 0.0342
+Link    500 0.0190 0.0178 0.00688 0.0360
+
+Permutation test: 
+          N   Mean Median   2.5%  97.5% P_permut
+Org       1     NA     NA     NA     NA       NA
+Link      1     NA     NA     NA     NA       NA
+
+Likelihood ratio test: 
+logLik full model = -4607.275
+logLik red. model = -4710.833
+D  = 207, df = 1, P = 2.92e-47
+
+----------------------------------------
