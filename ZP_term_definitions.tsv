@@ -20,7 +20,7 @@ abnormal swim bladder	absent swim bladder	ZP:0002944	Abnormal(ly) absent (of) sw
 abnormal head		ZP:0001609	Abnormal(ly) morphology (of) head
 abnormal head	microcephaly	ZP:0000054	Abnormal(ly) decreased size (of) head
 abnormal head	abnormally necrotic head	ZP:0002311	Abnormal(ly) necrotic (of) head
-abnormal head	hemhorragic head	ZP:0003678	Abnormal(ly) hemorrhagic (of) head
+abnormal head	hemorrhagic head	ZP:0003678	Abnormal(ly) hemorrhagic (of) head
 abnormal brain		ZP:0000100	Abnormal(ly) morphology (of) brain
 abnormal snout		ZP:0014550	Abnormal(ly) malformed (of) snout
 abnormal eye		ZP:0000943	Abnormal(ly) morphology (of) eye
