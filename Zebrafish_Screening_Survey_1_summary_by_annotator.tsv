@@ -16,26 +16,26 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 3	16	Pericardial edema	ZP:0001192	ZP:0000107
 3	17	Pericardial edema	ZP:0001192	ZP:0000107
 3	19	pericardial edema	ZP:0001192	ZP:0000107
-3	1	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	2	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	3	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	4	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	10	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	11	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	12	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	13	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	14	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	16	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	17	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	19	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	19	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	20	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	21	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	25	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	26	uninflated swim bladder	ZP:0001211	ZP:0001696
-3	23	uninflated swim bladder 	ZP:0001211	ZP:0001696
-3	24	Uninflated swim bladder 	ZP:0001211	ZP:0001696
-3	22	uninflated swim bladder	ZP:0001211	ZP:0001696
+3	1	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	2	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	3	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	4	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	10	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	11	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	12	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	13	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	14	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	16	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	17	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	19	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	19	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	20	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	21	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	25	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	26	uninflated swim bladder	ZP:0001211	ZP:0127709
+3	23	uninflated swim bladder 	ZP:0001211	ZP:0127709
+3	24	Uninflated swim bladder 	ZP:0001211	ZP:0127709
+3	22	uninflated swim bladder	ZP:0001211	ZP:0127709
 3	15	Craniofacial malformation	ZP:0001609	ZP:0001609
 3	20	craniofacial malformation	ZP:0001609	ZP:0001609
 3	21	craniofacial malformation	ZP:0001609	ZP:0001609
@@ -71,15 +71,15 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 3	11	caudal fin malformations	ZP:0004969	ZP:0001129
 3	14	caudal fin malformations	ZP:0004969	ZP:0001129
 3	19	caudal fin malformations	ZP:0004969	ZP:0001129
-3	10	axis	ZP:0109741	ZP:0109741
-3	21	Axis malformation	ZP:0109741	ZP:0109741
-3	25	axis malformation	ZP:0109741	ZP:0109741
-3	26	axis malformation	ZP:0109741	ZP:0109741
-3	11	axis malformations	ZP:0109741	ZP:0109741
-3	13	axis malformations	ZP:0109741	ZP:0109741
-3	14	axis malformations	ZP:0109741	ZP:0109741
-3	19	axis malformations	ZP:0109741	ZP:0109741
-3	20	Axis malformations	ZP:0109741	ZP:0109741
+3	10	axis	ZP:0127724	ZP:0127724
+3	21	Axis malformation	ZP:0127724	ZP:0127724
+3	25	axis malformation	ZP:0127724	ZP:0127724
+3	26	axis malformation	ZP:0127724	ZP:0127724
+3	11	axis malformations	ZP:0127724	ZP:0127724
+3	13	axis malformations	ZP:0127724	ZP:0127724
+3	14	axis malformations	ZP:0127724	ZP:0127724
+3	19	axis malformations	ZP:0127724	ZP:0127724
+3	20	Axis malformations	ZP:0127724	ZP:0127724
 1	5	Not affected	normal	normal
 1	6	Not affected	normal	normal
 1	24	Not affected	normal	normal
@@ -143,14 +143,14 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 1	17	yolk sac edema	ZP:0002060	ZP:0002676
 1	15	Necrosis in the head (probably)	ZP:0002311	ZP:0001609
 1	11	malformed caudal fin	ZP:0004969	ZP:0001129
-1	3	curved axis	ZP:0005012	ZP:0109741
-1	10	curved axis	ZP:0005012	ZP:0109741
-1	14	curved axis	ZP:0005012	ZP:0109741
-1	19	curved axis	ZP:0005012	ZP:0109741
-1	20	curved axis	ZP:0005012	ZP:0109741
-1	21	curved axis	ZP:0005012	ZP:0109741
-1	25	curved axis	ZP:0005012	ZP:0109741
-1	26	curved axis	ZP:0005012	ZP:0109741
+1	3	curved axis	ZP:0005012	ZP:0127724
+1	10	curved axis	ZP:0005012	ZP:0127724
+1	14	curved axis	ZP:0005012	ZP:0127724
+1	19	curved axis	ZP:0005012	ZP:0127724
+1	20	curved axis	ZP:0005012	ZP:0127724
+1	21	curved axis	ZP:0005012	ZP:0127724
+1	25	curved axis	ZP:0005012	ZP:0127724
+1	26	curved axis	ZP:0005012	ZP:0127724
 1	2	altered jaw morphology	ZP:0007203	ZP:0007203
 1	3	altered jaw morphology	ZP:0007203	ZP:0007203
 1	4	altered jaw morphology	ZP:0007203	ZP:0007203
@@ -177,9 +177,9 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 17	1	Heart edema	ZP:0001192	ZP:0000107
 17	2	Heart edema	ZP:0001192	ZP:0000107
 17	3	Heart edema	ZP:0001192	ZP:0000107
-17	1	no swim bladder	ZP:0002944	ZP:0001696
-17	2	no swim bladder	ZP:0002944	ZP:0001696
-17	3	no swim bladder	ZP:0002944	ZP:0001696
+17	1	no swim bladder	ZP:0002944	ZP:0127709
+17	2	no swim bladder	ZP:0002944	ZP:0127709
+17	3	no swim bladder	ZP:0002944	ZP:0127709
 17	5	no lethal/sublethal endpoint observed	normal	normal
 17	6	no lethal/sublethal endpoint observed	normal	normal
 17	4	General delay of development/growth	ZP:0000473	ZP:0012799
@@ -222,27 +222,27 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 17	11	yolk deformations	ZP:0002676	ZP:0002676
 17	14	yolk deformations	ZP:0002676	ZP:0002676
 17	19	yolk deformations	ZP:0002676	ZP:0002676
-17	4	no swim bladder	ZP:0002944	ZP:0001696
-17	10	no swim bladder	ZP:0002944	ZP:0001696
-17	11	no swim bladder	ZP:0002944	ZP:0001696
-17	12	no swim bladder	ZP:0002944	ZP:0001696
-17	13	no swim bladder	ZP:0002944	ZP:0001696
-17	16	no swim bladder	ZP:0002944	ZP:0001696
-17	17	no swim bladder	ZP:0002944	ZP:0001696
-17	19	no swim bladder	ZP:0002944	ZP:0001696
-17	20	no swim bladder	ZP:0002944	ZP:0001696
-17	21	no swim bladder	ZP:0002944	ZP:0001696
-17	22	no swim bladder	ZP:0002944	ZP:0001696
-17	23	no swim bladder	ZP:0002944	ZP:0001696
-17	24	no swim bladder	ZP:0002944	ZP:0001696
-17	25	no swim bladder	ZP:0002944	ZP:0001696
-17	26	no swim bladder	ZP:0002944	ZP:0001696
-17	9	small swim bladder	ZP:0005125	ZP:0001696
-17	10	Modified axis structure	ZP:0109741	ZP:0109741
-17	14	modified axis structure	ZP:0109741	ZP:0109741
-17	21	modified axis structure	ZP:0109741	ZP:0109741
-17	25	modified axis structure	ZP:0109741	ZP:0109741
-17	26	modified axis structure	ZP:0109741	ZP:0109741
+17	4	no swim bladder	ZP:0002944	ZP:0127709
+17	10	no swim bladder	ZP:0002944	ZP:0127709
+17	11	no swim bladder	ZP:0002944	ZP:0127709
+17	12	no swim bladder	ZP:0002944	ZP:0127709
+17	13	no swim bladder	ZP:0002944	ZP:0127709
+17	16	no swim bladder	ZP:0002944	ZP:0127709
+17	17	no swim bladder	ZP:0002944	ZP:0127709
+17	19	no swim bladder	ZP:0002944	ZP:0127709
+17	20	no swim bladder	ZP:0002944	ZP:0127709
+17	21	no swim bladder	ZP:0002944	ZP:0127709
+17	22	no swim bladder	ZP:0002944	ZP:0127709
+17	23	no swim bladder	ZP:0002944	ZP:0127709
+17	24	no swim bladder	ZP:0002944	ZP:0127709
+17	25	no swim bladder	ZP:0002944	ZP:0127709
+17	26	no swim bladder	ZP:0002944	ZP:0127709
+17	9	small swim bladder	ZP:0005125	ZP:0127709
+17	10	Modified axis structure	ZP:0127724	ZP:0127724
+17	14	modified axis structure	ZP:0127724	ZP:0127724
+17	21	modified axis structure	ZP:0127724	ZP:0127724
+17	25	modified axis structure	ZP:0127724	ZP:0127724
+17	26	modified axis structure	ZP:0127724	ZP:0127724
 7	15		normal	normal
 7	3	Brain	ZP:0000100	ZP:0000100
 7	13	Brain	ZP:0000100	ZP:0000100
@@ -364,33 +364,33 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 7	5	Snout	ZP:0014550	ZP:0014550
 7	13	Pigment	ZP:0015121	ZP:0015121
 7	17	Pigment	ZP:0015121	ZP:0015121
-7	1	swim	ZP:0001696	ZP:0001696
-7	2	Swim	ZP:0001696	ZP:0001696
-7	3	Swim	ZP:0001696	ZP:0001696
-7	4	Swim	ZP:0001696	ZP:0001696
-7	9	Swim	ZP:0001696	ZP:0001696
-7	10	Swim	ZP:0001696	ZP:0001696
-7	11	Swim	ZP:0001696	ZP:0001696
-7	12	Swim	ZP:0001696	ZP:0001696
-7	13	Swim	ZP:0001696	ZP:0001696
-7	14	Swim	ZP:0001696	ZP:0001696
-7	16	Swim	ZP:0001696	ZP:0001696
-7	17	Swim	ZP:0001696	ZP:0001696
-7	19	Swim	ZP:0001696	ZP:0001696
-7	20	Swim	ZP:0001696	ZP:0001696
-7	21	Swim	ZP:0001696	ZP:0001696
-7	22	Swim	ZP:0001696	ZP:0001696
-7	23	Swim	ZP:0001696	ZP:0001696
-7	24	Swim	ZP:0001696	ZP:0001696
-7	25	Swim	ZP:0001696	ZP:0001696
-7	26	Swim	ZP:0001696	ZP:0001696
-7	2	Axis	ZP:0109741	ZP:0109741
-7	3	Axis	ZP:0109741	ZP:0109741
-7	11	Axis	ZP:0109741	ZP:0109741
-7	14	Axis	ZP:0109741	ZP:0109741
-7	20	Axis	ZP:0109741	ZP:0109741
-7	21	Axis	ZP:0109741	ZP:0109741
-7	26	Axis	ZP:0109741	ZP:0109741
+7	1	swim	ZP:0127709	ZP:0127709
+7	2	Swim	ZP:0127709	ZP:0127709
+7	3	Swim	ZP:0127709	ZP:0127709
+7	4	Swim	ZP:0127709	ZP:0127709
+7	9	Swim	ZP:0127709	ZP:0127709
+7	10	Swim	ZP:0127709	ZP:0127709
+7	11	Swim	ZP:0127709	ZP:0127709
+7	12	Swim	ZP:0127709	ZP:0127709
+7	13	Swim	ZP:0127709	ZP:0127709
+7	14	Swim	ZP:0127709	ZP:0127709
+7	16	Swim	ZP:0127709	ZP:0127709
+7	17	Swim	ZP:0127709	ZP:0127709
+7	19	Swim	ZP:0127709	ZP:0127709
+7	20	Swim	ZP:0127709	ZP:0127709
+7	21	Swim	ZP:0127709	ZP:0127709
+7	22	Swim	ZP:0127709	ZP:0127709
+7	23	Swim	ZP:0127709	ZP:0127709
+7	24	Swim	ZP:0127709	ZP:0127709
+7	25	Swim	ZP:0127709	ZP:0127709
+7	26	Swim	ZP:0127709	ZP:0127709
+7	2	Axis	ZP:0127724	ZP:0127724
+7	3	Axis	ZP:0127724	ZP:0127724
+7	11	Axis	ZP:0127724	ZP:0127724
+7	14	Axis	ZP:0127724	ZP:0127724
+7	20	Axis	ZP:0127724	ZP:0127724
+7	21	Axis	ZP:0127724	ZP:0127724
+7	26	Axis	ZP:0127724	ZP:0127724
 9	6		normal	normal
 9	18		normal	normal
 9	3	brain	ZP:0000100	ZP:0000100
@@ -477,24 +477,24 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 9	21	snout	ZP:0014550	ZP:0014550
 9	26	snout	ZP:0014550	ZP:0014550
 9	25	snout	ZP:0014550	ZP:0014550
-9	1	swim	ZP:0001696	ZP:0001696
-9	2	swim	ZP:0001696	ZP:0001696
-9	11	swim	ZP:0001696	ZP:0001696
-9	13	swim	ZP:0001696	ZP:0001696
-9	14	swim	ZP:0001696	ZP:0001696
-9	16	swim	ZP:0001696	ZP:0001696
-9	17	swim	ZP:0001696	ZP:0001696
-9	19	swim	ZP:0001696	ZP:0001696
-9	20	swim	ZP:0001696	ZP:0001696
-9	21	swim	ZP:0001696	ZP:0001696
-9	22	swim	ZP:0001696	ZP:0001696
-9	23	swim	ZP:0001696	ZP:0001696
-9	24	swim	ZP:0001696	ZP:0001696
-9	25	swim	ZP:0001696	ZP:0001696
-9	26	swim	ZP:0001696	ZP:0001696
-9	21	axis	ZP:0109741	ZP:0109741
-9	25	axis	ZP:0109741	ZP:0109741
-9	26	axis	ZP:0109741	ZP:0109741
+9	1	swim	ZP:0127709	ZP:0127709
+9	2	swim	ZP:0127709	ZP:0127709
+9	11	swim	ZP:0127709	ZP:0127709
+9	13	swim	ZP:0127709	ZP:0127709
+9	14	swim	ZP:0127709	ZP:0127709
+9	16	swim	ZP:0127709	ZP:0127709
+9	17	swim	ZP:0127709	ZP:0127709
+9	19	swim	ZP:0127709	ZP:0127709
+9	20	swim	ZP:0127709	ZP:0127709
+9	21	swim	ZP:0127709	ZP:0127709
+9	22	swim	ZP:0127709	ZP:0127709
+9	23	swim	ZP:0127709	ZP:0127709
+9	24	swim	ZP:0127709	ZP:0127709
+9	25	swim	ZP:0127709	ZP:0127709
+9	26	swim	ZP:0127709	ZP:0127709
+9	21	axis	ZP:0127724	ZP:0127724
+9	25	axis	ZP:0127724	ZP:0127724
+9	26	axis	ZP:0127724	ZP:0127724
 2	1	abnormally short length	ZP:0000473	ZP:0012799
 2	2	Reduced larval total length (discission normally based on actual length measurements)	ZP:0000473	ZP:0012799
 2	3	Reduced larval total length (discission normally based on actual length measurements)	ZP:0000473	ZP:0012799
@@ -527,25 +527,25 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 2	20	Edema pericardium	ZP:0001192	ZP:0000107
 2	25	Edema pericardium	ZP:0001192	ZP:0000107
 2	26	Edema pericardium	ZP:0001192	ZP:0000107
-2	1	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	2	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	3	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	4	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	10	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	11	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	12	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	13	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	14	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	16	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	17	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	19	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	20	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	21	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	22	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	23	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	24	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	25	Uninflated swim bladder	ZP:0001211	ZP:0001696
-2	26	Uninflated swim bladder	ZP:0001211	ZP:0001696
+2	1	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	2	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	3	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	4	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	10	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	11	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	12	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	13	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	14	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	16	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	17	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	19	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	20	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	21	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	22	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	23	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	24	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	25	Uninflated swim bladder	ZP:0001211	ZP:0127709
+2	26	Uninflated swim bladder	ZP:0001211	ZP:0127709
 2	21	Malformation ear	ZP:0001601	ZP:0001601
 2	1	Malformation head	ZP:0001609	ZP:0001609
 2	2	Malformation head	ZP:0001609	ZP:0001609
@@ -606,7 +606,7 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 2	11	Malformation tail fin	ZP:0004969	ZP:0001129
 2	14	Malformation tail fin	ZP:0004969	ZP:0001129
 2	26	Malformation tail fin	ZP:0004969	ZP:0001129
-2	9	Smaller swim bladder surface area (discission normally based on actual surface area measurements)	ZP:0005125	ZP:0001696
+2	9	Smaller swim bladder surface area (discission normally based on actual surface area measurements)	ZP:0005125	ZP:0127709
 2	3	Blood accumulation yolk	ZP:0006124	ZP:0002676
 2	10	Blood accumulation yolk	ZP:0006124	ZP:0002676
 2	14	Blood accumulation yolk	ZP:0006124	ZP:0002676
@@ -682,14 +682,14 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 12	10	Yolk Sac Degradation	ZP:0002676	ZP:0002676
 12	13	Yolk Sac Malformation	ZP:0002676	ZP:0002676
 12	4	Yolk Sac Malformation	ZP:0002676	ZP:0002676
-12	11	Swim Bladder Not Evident	ZP:0002944	ZP:0001696
-12	14	Swim Bladder not Evident	ZP:0002944	ZP:0001696
-12	19	Swim Bladder not Evident	ZP:0002944	ZP:0001696
+12	11	Swim Bladder Not Evident	ZP:0002944	ZP:0127709
+12	14	Swim Bladder not Evident	ZP:0002944	ZP:0127709
+12	19	Swim Bladder not Evident	ZP:0002944	ZP:0127709
 12	11	Tail End Vacuolization	ZP:0004969	ZP:0001129
-12	25	Curved Back	ZP:0005012	ZP:0109741
-12	20	Curved Back/Tail	ZP:0005012	ZP:0109741
-12	21	Curved Back/Tail	ZP:0005012	ZP:0109741
-12	26	Curved Back/Tail	ZP:0005012	ZP:0109741
+12	25	Curved Back	ZP:0005012	ZP:0127724
+12	20	Curved Back/Tail	ZP:0005012	ZP:0127724
+12	21	Curved Back/Tail	ZP:0005012	ZP:0127724
+12	26	Curved Back/Tail	ZP:0005012	ZP:0127724
 12	3	Pooling of Blood Cells in Pericardium	ZP:0005930	ZP:0000107
 12	12	Possible Pooling of Blood Cells in Pericardial Sac	ZP:0005930	ZP:0000107
 12	26	Possible Pooling of Blood Cells in Pericardium	ZP:0005930	ZP:0000107
@@ -705,9 +705,9 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 12	3	Possible Jaw Malformation	ZP:0007203	ZP:0007203
 12	14	Curved Tail	ZP:0010319	ZP:0001129
 12	10	Slightly Curved Tail	ZP:0010319	ZP:0001129
-12	9	Swim Bladder Malformation	ZP:0001696	ZP:0001696
-12	10	Swim Bladder Malformation	ZP:0001696	ZP:0001696
-12	3	Swim Bladder or Yolk Sac Malformation	ZP:0001696	ZP:0001696
+12	9	Swim Bladder Malformation	ZP:0127709	ZP:0127709
+12	10	Swim Bladder Malformation	ZP:0127709	ZP:0127709
+12	3	Swim Bladder or Yolk Sac Malformation	ZP:0127709	ZP:0127709
 10	5	no observable effect	normal	normal
 10	6	no observable effect	normal	normal
 10	3	small head	ZP:0000054	ZP:0001609
@@ -840,25 +840,25 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 16	23	yolk sac malformation	ZP:0002676	ZP:0002676
 16	25	yolk sac malformation	ZP:0002676	ZP:0002676
 16	26	yolk sac malformed	ZP:0002676	ZP:0002676
-16	10	lack of swim bladder	ZP:0002944	ZP:0001696
-16	12	lack of swim bladder	ZP:0002944	ZP:0001696
-16	13	lack of swim bladder	ZP:0002944	ZP:0001696
-16	14	lack of swim bladder	ZP:0002944	ZP:0001696
-16	16	lack of swim bladder	ZP:0002944	ZP:0001696
-16	17	lack of swim bladder	ZP:0002944	ZP:0001696
-16	23	lack of swim bladder; 	ZP:0002944	ZP:0001696
-16	1	lack of swimbladder	ZP:0002944	ZP:0001696
-16	2	lack of swimbladder	ZP:0002944	ZP:0001696
-16	3	lack of swimbladder	ZP:0002944	ZP:0001696
-16	4	lack of swimbladder	ZP:0002944	ZP:0001696
-16	19	lack of swimm bladder	ZP:0002944	ZP:0001696
-16	20	lack of swimm bladder	ZP:0002944	ZP:0001696
-16	21	lack of swimm bladder	ZP:0002944	ZP:0001696
-16	24	lack of swimm bladder	ZP:0002944	ZP:0001696
-16	22	lack of swimm blader	ZP:0002944	ZP:0001696
+16	10	lack of swim bladder	ZP:0002944	ZP:0127709
+16	12	lack of swim bladder	ZP:0002944	ZP:0127709
+16	13	lack of swim bladder	ZP:0002944	ZP:0127709
+16	14	lack of swim bladder	ZP:0002944	ZP:0127709
+16	16	lack of swim bladder	ZP:0002944	ZP:0127709
+16	17	lack of swim bladder	ZP:0002944	ZP:0127709
+16	23	lack of swim bladder; 	ZP:0002944	ZP:0127709
+16	1	lack of swimbladder	ZP:0002944	ZP:0127709
+16	2	lack of swimbladder	ZP:0002944	ZP:0127709
+16	3	lack of swimbladder	ZP:0002944	ZP:0127709
+16	4	lack of swimbladder	ZP:0002944	ZP:0127709
+16	19	lack of swimm bladder	ZP:0002944	ZP:0127709
+16	20	lack of swimm bladder	ZP:0002944	ZP:0127709
+16	21	lack of swimm bladder	ZP:0002944	ZP:0127709
+16	24	lack of swimm bladder	ZP:0002944	ZP:0127709
+16	22	lack of swimm blader	ZP:0002944	ZP:0127709
 16	11	tail tip necrosis	ZP:0004969	ZP:0001129
-16	25	curved body axis, 	ZP:0005012	ZP:0109741
-16	9	smaller swimbladder	ZP:0005125	ZP:0001696
+16	25	curved body axis, 	ZP:0005012	ZP:0127724
+16	9	smaller swimbladder	ZP:0005125	ZP:0127709
 16	13	notocord not visible	ZP:0007632	ZP:0000624
 16	14	notocord not visible	ZP:0007632	ZP:0000624
 16	14	bend tail	ZP:0010319	ZP:0001129
@@ -995,11 +995,11 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 6	26	snout	ZP:0014550	ZP:0014550
 6	9	pig	ZP:0015121	ZP:0015121
 6	21	pig	ZP:0015121	ZP:0015121
-6	14	axis	ZP:0109741	ZP:0109741
-6	20	axis	ZP:0109741	ZP:0109741
-6	21	axis	ZP:0109741	ZP:0109741
-6	25	axis	ZP:0109741	ZP:0109741
-6	26	axis	ZP:0109741	ZP:0109741
+6	14	axis	ZP:0127724	ZP:0127724
+6	20	axis	ZP:0127724	ZP:0127724
+6	21	axis	ZP:0127724	ZP:0127724
+6	25	axis	ZP:0127724	ZP:0127724
+6	26	axis	ZP:0127724	ZP:0127724
 8	5		normal	normal
 8	6		normal	normal
 8	18		normal	normal
@@ -1136,35 +1136,35 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 8	23	pig	ZP:0015121	ZP:0015121
 8	25	pig	ZP:0015121	ZP:0015121
 8	26	pig	ZP:0015121	ZP:0015121
-8	1	swim	ZP:0001696	ZP:0001696
-8	2	swim	ZP:0001696	ZP:0001696
-8	3	swim	ZP:0001696	ZP:0001696
-8	4	swim	ZP:0001696	ZP:0001696
-8	9	swim	ZP:0001696	ZP:0001696
-8	10	swim	ZP:0001696	ZP:0001696
-8	11	swim	ZP:0001696	ZP:0001696
-8	12	swim	ZP:0001696	ZP:0001696
-8	13	swim	ZP:0001696	ZP:0001696
-8	14	swim	ZP:0001696	ZP:0001696
-8	16	swim	ZP:0001696	ZP:0001696
-8	17	swim	ZP:0001696	ZP:0001696
-8	19	swim	ZP:0001696	ZP:0001696
-8	20	swim	ZP:0001696	ZP:0001696
-8	21	swim	ZP:0001696	ZP:0001696
-8	22	swim	ZP:0001696	ZP:0001696
-8	23	swim	ZP:0001696	ZP:0001696
-8	24	swim	ZP:0001696	ZP:0001696
-8	25	swim	ZP:0001696	ZP:0001696
-8	26	swim	ZP:0001696	ZP:0001696
-8	2	axis	ZP:0109741	ZP:0109741
-8	3	axis	ZP:0109741	ZP:0109741
-8	4	axis	ZP:0109741	ZP:0109741
-8	11	axis	ZP:0109741	ZP:0109741
-8	14	axis	ZP:0109741	ZP:0109741
-8	20	axis	ZP:0109741	ZP:0109741
-8	21	axis	ZP:0109741	ZP:0109741
-8	25	axis	ZP:0109741	ZP:0109741
-8	26	axis	ZP:0109741	ZP:0109741
+8	1	swim	ZP:0127709	ZP:0127709
+8	2	swim	ZP:0127709	ZP:0127709
+8	3	swim	ZP:0127709	ZP:0127709
+8	4	swim	ZP:0127709	ZP:0127709
+8	9	swim	ZP:0127709	ZP:0127709
+8	10	swim	ZP:0127709	ZP:0127709
+8	11	swim	ZP:0127709	ZP:0127709
+8	12	swim	ZP:0127709	ZP:0127709
+8	13	swim	ZP:0127709	ZP:0127709
+8	14	swim	ZP:0127709	ZP:0127709
+8	16	swim	ZP:0127709	ZP:0127709
+8	17	swim	ZP:0127709	ZP:0127709
+8	19	swim	ZP:0127709	ZP:0127709
+8	20	swim	ZP:0127709	ZP:0127709
+8	21	swim	ZP:0127709	ZP:0127709
+8	22	swim	ZP:0127709	ZP:0127709
+8	23	swim	ZP:0127709	ZP:0127709
+8	24	swim	ZP:0127709	ZP:0127709
+8	25	swim	ZP:0127709	ZP:0127709
+8	26	swim	ZP:0127709	ZP:0127709
+8	2	axis	ZP:0127724	ZP:0127724
+8	3	axis	ZP:0127724	ZP:0127724
+8	4	axis	ZP:0127724	ZP:0127724
+8	11	axis	ZP:0127724	ZP:0127724
+8	14	axis	ZP:0127724	ZP:0127724
+8	20	axis	ZP:0127724	ZP:0127724
+8	21	axis	ZP:0127724	ZP:0127724
+8	25	axis	ZP:0127724	ZP:0127724
+8	26	axis	ZP:0127724	ZP:0127724
 11	5	normal development	normal	normal
 11	24	normal development	normal	normal
 11	18	yolk sac distension	ZP:0000102	ZP:0002676
@@ -1184,7 +1184,7 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 11	16	pericardial edema	ZP:0001192	ZP:0000107
 11	17	pericardial edema	ZP:0001192	ZP:0000107
 11	19	pericardial edema	ZP:0001192	ZP:0000107
-11	10	swim bladder malformation (deflated)	ZP:0001211	ZP:0001696
+11	10	swim bladder malformation (deflated)	ZP:0001211	ZP:0127709
 11	26	lack of defined somites	ZP:0001601	ZP:0001601
 11	13	lack of somite development	ZP:0001601	ZP:0001601
 11	14	somites not defined	ZP:0001601	ZP:0001601
@@ -1209,13 +1209,13 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 11	25	yolk sac degradation	ZP:0002676	ZP:0002676
 11	26	yolk sac degradation	ZP:0002676	ZP:0002676
 11	13	yolk sac malformation	ZP:0002676	ZP:0002676
-11	11	swim bladder not evident	ZP:0002944	ZP:0001696
-11	14	swim bladder not evident	ZP:0002944	ZP:0001696
-11	19	swim bladder not evident	ZP:0002944	ZP:0001696
+11	11	swim bladder not evident	ZP:0002944	ZP:0127709
+11	14	swim bladder not evident	ZP:0002944	ZP:0127709
+11	19	swim bladder not evident	ZP:0002944	ZP:0127709
 11	11	vacuolization in end of tail	ZP:0004969	ZP:0001129
-11	20	curved back/tail	ZP:0005012	ZP:0109741
-11	21	curved back/tail	ZP:0005012	ZP:0109741
-11	26	curved back/tail	ZP:0005012	ZP:0109741
+11	20	curved back/tail	ZP:0005012	ZP:0127724
+11	21	curved back/tail	ZP:0005012	ZP:0127724
+11	26	curved back/tail	ZP:0005012	ZP:0127724
 11	26	possible blood cell pooling in pericardium	ZP:0005930	ZP:0000107
 11	12	possible red blood cell pooling in pericardial region	ZP:0005930	ZP:0000107
 11	3	red blood cells pooled in pericadial region	ZP:0005930	ZP:0000107
@@ -1236,11 +1236,11 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 11	25	tail curve	ZP:0010319	ZP:0001129
 11	22	tail tip curve	ZP:0010319	ZP:0001129
 11	13	pigment problem	ZP:0015121	ZP:0015121
-11	12	possible swim bladder malformation	ZP:0001696	ZP:0001696
-11	16	possible swim bladder malformation	ZP:0001696	ZP:0001696
-11	20	swim bladder deflated	ZP:0001696	ZP:0001696
-11	3	swim bladder malformation	ZP:0001696	ZP:0001696
-11	9	swim bladder malformation	ZP:0001696	ZP:0001696
+11	12	possible swim bladder malformation	ZP:0127709	ZP:0127709
+11	16	possible swim bladder malformation	ZP:0127709	ZP:0127709
+11	20	swim bladder deflated	ZP:0127709	ZP:0127709
+11	3	swim bladder malformation	ZP:0127709	ZP:0127709
+11	9	swim bladder malformation	ZP:0127709	ZP:0127709
 14	5	normal	normal	normal
 14	6	normal	normal	normal
 14	15	normal	normal	normal
@@ -1281,23 +1281,23 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 14	16	pericard edema	ZP:0001192	ZP:0000107
 14	17	pericard edema	ZP:0001192	ZP:0000107
 14	19	pericard edema	ZP:0001192	ZP:0000107
-14	1	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	2	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	3	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	4	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	10	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	11	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	16	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	17	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	19	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	21	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	22	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	23	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	24	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	26	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	12	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	20	no swim bladder inflation	ZP:0001211	ZP:0001696
-14	9	reduced swim bladder inflation	ZP:0001211	ZP:0001696
+14	1	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	2	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	3	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	4	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	10	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	11	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	16	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	17	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	19	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	21	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	22	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	23	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	24	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	26	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	12	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	20	no swim bladder inflation	ZP:0001211	ZP:0127709
+14	9	reduced swim bladder inflation	ZP:0001211	ZP:0127709
 14	1	head deformation	ZP:0001609	ZP:0001609
 14	2	head deformation	ZP:0001609	ZP:0001609
 14	3	head deformation	ZP:0001609	ZP:0001609
@@ -1420,45 +1420,45 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 4	21	snout defects	ZP:0014550	ZP:0014550
 4	25	snout defects	ZP:0014550	ZP:0014550
 4	26	snout defects	ZP:0014550	ZP:0014550
-4	11	swim bladder defects	ZP:0001696	ZP:0001696
-4	1	swim bladder defects	ZP:0001696	ZP:0001696
-4	3	swim bladder defects	ZP:0001696	ZP:0001696
-4	4	swim bladder defects	ZP:0001696	ZP:0001696
-4	9	swim bladder defects	ZP:0001696	ZP:0001696
-4	10	swim bladder defects	ZP:0001696	ZP:0001696
-4	12	swim bladder defects	ZP:0001696	ZP:0001696
-4	13	swim bladder defects	ZP:0001696	ZP:0001696
-4	14	swim bladder defects	ZP:0001696	ZP:0001696
-4	16	swim bladder defects	ZP:0001696	ZP:0001696
-4	19	swim bladder defects	ZP:0001696	ZP:0001696
-4	20	swim bladder defects	ZP:0001696	ZP:0001696
-4	21	swim bladder defects	ZP:0001696	ZP:0001696
-4	23	Swim bladder defects	ZP:0001696	ZP:0001696
-4	24	Swim bladder defects	ZP:0001696	ZP:0001696
-4	25	swim bladder defects	ZP:0001696	ZP:0001696
-4	26	swim bladder defects	ZP:0001696	ZP:0001696
-4	3	body axis defects	ZP:0109741	ZP:0109741
-4	10	body axis defects	ZP:0109741	ZP:0109741
-4	11	body axis defects	ZP:0109741	ZP:0109741
-4	13	body axis defects	ZP:0109741	ZP:0109741
-4	14	body axis defects	ZP:0109741	ZP:0109741
-4	19	body axis defects	ZP:0109741	ZP:0109741
-4	20	Body axis defects	ZP:0109741	ZP:0109741
-4	20	body axis defects	ZP:0109741	ZP:0109741
-4	21	body axis defects	ZP:0109741	ZP:0109741
-4	21	body axis defects	ZP:0109741	ZP:0109741
-4	25	Body axis defects	ZP:0109741	ZP:0109741
-4	25	body axis defects	ZP:0109741	ZP:0109741
-4	26	Body axis defects	ZP:0109741	ZP:0109741
-4	26	body axis defects	ZP:0109741	ZP:0109741
+4	11	swim bladder defects	ZP:0127709	ZP:0127709
+4	1	swim bladder defects	ZP:0127709	ZP:0127709
+4	3	swim bladder defects	ZP:0127709	ZP:0127709
+4	4	swim bladder defects	ZP:0127709	ZP:0127709
+4	9	swim bladder defects	ZP:0127709	ZP:0127709
+4	10	swim bladder defects	ZP:0127709	ZP:0127709
+4	12	swim bladder defects	ZP:0127709	ZP:0127709
+4	13	swim bladder defects	ZP:0127709	ZP:0127709
+4	14	swim bladder defects	ZP:0127709	ZP:0127709
+4	16	swim bladder defects	ZP:0127709	ZP:0127709
+4	19	swim bladder defects	ZP:0127709	ZP:0127709
+4	20	swim bladder defects	ZP:0127709	ZP:0127709
+4	21	swim bladder defects	ZP:0127709	ZP:0127709
+4	23	Swim bladder defects	ZP:0127709	ZP:0127709
+4	24	Swim bladder defects	ZP:0127709	ZP:0127709
+4	25	swim bladder defects	ZP:0127709	ZP:0127709
+4	26	swim bladder defects	ZP:0127709	ZP:0127709
+4	3	body axis defects	ZP:0127724	ZP:0127724
+4	10	body axis defects	ZP:0127724	ZP:0127724
+4	11	body axis defects	ZP:0127724	ZP:0127724
+4	13	body axis defects	ZP:0127724	ZP:0127724
+4	14	body axis defects	ZP:0127724	ZP:0127724
+4	19	body axis defects	ZP:0127724	ZP:0127724
+4	20	Body axis defects	ZP:0127724	ZP:0127724
+4	20	body axis defects	ZP:0127724	ZP:0127724
+4	21	body axis defects	ZP:0127724	ZP:0127724
+4	21	body axis defects	ZP:0127724	ZP:0127724
+4	25	Body axis defects	ZP:0127724	ZP:0127724
+4	25	body axis defects	ZP:0127724	ZP:0127724
+4	26	Body axis defects	ZP:0127724	ZP:0127724
+4	26	body axis defects	ZP:0127724	ZP:0127724
 4	2	developmental delay	ZP:0000473	ZP:0012799
 4	2	Heart edema	ZP:0001192	ZP:0000107
 4	2	head size defects	ZP:0001609	ZP:0001609
 4	2	yolk size defects	ZP:0002676	ZP:0002676
 4	2	jaw defects	ZP:0007203	ZP:0007203
 4	2	body length defects	ZP:0012799	ZP:0012799
-4	2	swim bladder defects	ZP:0001696	ZP:0001696
-4	2	body axis defects	ZP:0109741	ZP:0109741
+4	2	swim bladder defects	ZP:0127709	ZP:0127709
+4	2	body axis defects	ZP:0127724	ZP:0127724
 15	15	Hatched; normal	normal	normal
 15	18	Hatched; normal	normal	normal
 15	5	normal	normal	normal
@@ -1481,26 +1481,26 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 15	13	heart edema	ZP:0001192	ZP:0000107
 15	14	heart edema	ZP:0001192	ZP:0000107
 15	17	heart edema	ZP:0001192	ZP:0000107
-15	9	swim bladder not fully inflated	ZP:0001211	ZP:0001696
-15	20	swim bladder not fully inflated	ZP:0001211	ZP:0001696
-15	1	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	2	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	10	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	11	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	12	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	13	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	14	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	17	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	25	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	26	swim bladder not inflated	ZP:0001211	ZP:0001696
-15	19	swim bladder not inflated	ZP:0001211	ZP:0001696
+15	9	swim bladder not fully inflated	ZP:0001211	ZP:0127709
+15	20	swim bladder not fully inflated	ZP:0001211	ZP:0127709
+15	1	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	2	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	10	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	11	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	12	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	13	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	14	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	17	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	25	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	26	swim bladder not inflated	ZP:0001211	ZP:0127709
+15	19	swim bladder not inflated	ZP:0001211	ZP:0127709
 15	11	Malformation head	ZP:0001609	ZP:0001609
 15	10	yolk edema	ZP:0002060	ZP:0002676
 15	3	Yolk deformations	ZP:0002676	ZP:0002676
 15	4	Yolk deformations	ZP:0002676	ZP:0002676
-15	21	modified axis structure	ZP:0109741	ZP:0109741
-15	25	modified axis structure	ZP:0109741	ZP:0109741
-15	26	modified axis structure	ZP:0109741	ZP:0109741
+15	21	modified axis structure	ZP:0127724	ZP:0127724
+15	25	modified axis structure	ZP:0127724	ZP:0127724
+15	26	modified axis structure	ZP:0127724	ZP:0127724
 18	1	normal development	normal	normal
 18	6	normal development	normal	normal
 18	15	normal development	normal	normal
@@ -1524,11 +1524,11 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 18	16	heart edema	ZP:0001192	ZP:0000107
 18	17	heart edema	ZP:0001192	ZP:0000107
 18	21	heart edema	ZP:0001192	ZP:0000107
-18	10	no swim bladder inflation	ZP:0001211	ZP:0001696
-18	19	no swim bladder inflation	ZP:0001211	ZP:0001696
-18	22	no swim bladder inflation	ZP:0001211	ZP:0001696
-18	24	no swim bladder inflation	ZP:0001211	ZP:0001696
-18	9	swim bladder not completely inflated	ZP:0001211	ZP:0001696
+18	10	no swim bladder inflation	ZP:0001211	ZP:0127709
+18	19	no swim bladder inflation	ZP:0001211	ZP:0127709
+18	22	no swim bladder inflation	ZP:0001211	ZP:0127709
+18	24	no swim bladder inflation	ZP:0001211	ZP:0127709
+18	9	swim bladder not completely inflated	ZP:0001211	ZP:0127709
 18	11	malformation of sacculi/otoliths	ZP:0001601	ZP:0001601
 18	13	somite formation	ZP:0001601	ZP:0001601
 18	14	somite formation	ZP:0001601	ZP:0001601
@@ -1554,11 +1554,11 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 18	20	mouth deformation	ZP:0007203	ZP:0007203
 18	18	mouth development	ZP:0007203	ZP:0007203
 18	2	slight mouth malfromation	ZP:0007203	ZP:0007203
-18	10	modified axis	ZP:0109741	ZP:0109741
-18	14	modified axis	ZP:0109741	ZP:0109741
-18	21	modified axis	ZP:0109741	ZP:0109741
-18	25	modified axis	ZP:0109741	ZP:0109741
-18	26	modified axis	ZP:0109741	ZP:0109741
+18	10	modified axis	ZP:0127724	ZP:0127724
+18	14	modified axis	ZP:0127724	ZP:0127724
+18	21	modified axis	ZP:0127724	ZP:0127724
+18	25	modified axis	ZP:0127724	ZP:0127724
+18	26	modified axis	ZP:0127724	ZP:0127724
 13	5	normal	normal	normal
 13	6	normal	normal	normal
 13	3	small eyes	ZP:0000043	ZP:0000943
@@ -1624,25 +1624,25 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 13	17	pericardial edema	ZP:0001192	ZP:0000107
 13	19	pericardial edema	ZP:0001192	ZP:0000107
 13	26	pericardial edema	ZP:0001192	ZP:0000107
-13	24	unflated swim bladder	ZP:0001211	ZP:0001696
-13	16	uninfalted swim bladder	ZP:0001211	ZP:0001696
-13	1	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	2	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	3	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	4	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	10	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	11	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	12	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	13	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	14	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	17	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	19	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	20	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	21	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	22	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	23	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	25	uninflated swim bladder	ZP:0001211	ZP:0001696
-13	26	uninflated swim bladder	ZP:0001211	ZP:0001696
+13	24	unflated swim bladder	ZP:0001211	ZP:0127709
+13	16	uninfalted swim bladder	ZP:0001211	ZP:0127709
+13	1	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	2	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	3	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	4	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	10	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	11	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	12	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	13	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	14	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	17	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	19	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	20	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	21	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	22	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	23	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	25	uninflated swim bladder	ZP:0001211	ZP:0127709
+13	26	uninflated swim bladder	ZP:0001211	ZP:0127709
 13	18	Comment: too much space between eye and bottom of jaw. not sure what is going on.	ZP:0001609	ZP:0001609
 13	19	comments: too much space between eye and bottom of jaw. Not sure what is going on.	ZP:0001609	ZP:0001609
 13	10	Comment: large masses in yolk area. would like to know what color they are, perhaps are blood pooling?	ZP:0002676	ZP:0002676
@@ -1732,15 +1732,15 @@ Participant_Identifier	Embryo_Number	Verbatim_Annotation	Granular_Annotation_CUR
 5	1	Moderate cardiac effusion	ZP:0001192	ZP:0000107
 5	25	moderate cardiac effusion	ZP:0001192	ZP:0000107
 5	26	Moderate cardiac effusion	ZP:0001192	ZP:0000107
-5	16	absence of swim bladder inflation	ZP:0001211	ZP:0001696
-5	17	absence of swim bladder inflation	ZP:0001211	ZP:0001696
-5	19	absence of swim bladder inflation	ZP:0001211	ZP:0001696
-5	1	absence of swim bladder inflation (conditional on knowing exact embryo age)	ZP:0001211	ZP:0001696
-5	2	absence of swim bladder inflation (conditional on knowing exact embryo age)	ZP:0001211	ZP:0001696
-5	20	absence of swim bladder inflation (dependent on age of embryo)	ZP:0001211	ZP:0001696
-5	3	absence of swim bladder inflation (secondary to other characteristics and conditional on knowing exact embryo age).	ZP:0001211	ZP:0001696
-5	4	absence of swim bladder inflation (secondary to other characteristics and conditional on knowing exact embryo age).	ZP:0001211	ZP:0001696
-5	11	absence of swim bladder inflation secondary to other characteristics	ZP:0001211	ZP:0001696
+5	16	absence of swim bladder inflation	ZP:0001211	ZP:0127709
+5	17	absence of swim bladder inflation	ZP:0001211	ZP:0127709
+5	19	absence of swim bladder inflation	ZP:0001211	ZP:0127709
+5	1	absence of swim bladder inflation (conditional on knowing exact embryo age)	ZP:0001211	ZP:0127709
+5	2	absence of swim bladder inflation (conditional on knowing exact embryo age)	ZP:0001211	ZP:0127709
+5	20	absence of swim bladder inflation (dependent on age of embryo)	ZP:0001211	ZP:0127709
+5	3	absence of swim bladder inflation (secondary to other characteristics and conditional on knowing exact embryo age).	ZP:0001211	ZP:0127709
+5	4	absence of swim bladder inflation (secondary to other characteristics and conditional on knowing exact embryo age).	ZP:0001211	ZP:0127709
+5	11	absence of swim bladder inflation secondary to other characteristics	ZP:0001211	ZP:0127709
 5	3	brachycephalic	ZP:0001609	ZP:0001609
 5	4	brachycephalic	ZP:0001609	ZP:0001609
 5	19	brachycephalic	ZP:0001609	ZP:0001609

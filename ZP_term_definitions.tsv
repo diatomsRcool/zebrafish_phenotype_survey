@@ -4,7 +4,7 @@ abnormal		ZP:0005632	Abnormal(ly) organismal quality (of) whole organism
 abnormal jaw		ZP:0007203	Abnormal(ly) morphology (of) ventral mandibular arch.
 abnormal jaw	abnormally small jaw	ZP:0000916	Abnormal(ly) decreased size (of) ventral mandibular arch
 abnormal jaw	abnormally large jaw	ZP:0015011	Abnormal(ly) increased size (of) ventral mandibular arch
-abnormal axis		ZP:0109741	Abnormality of axis
+abnormal axis		ZP:0127724	Abnormality of axis
 abnormal axis	abnormally curved axis	ZP:0005012	Abnormal(ly) curved (of) axis
 abnormal tail		ZP:0001129	Abnormal(ly) morphology (of) tail bud
 abnormal tail	abnormal tail fin	ZP:0004969	Abnormal(ly) morphology (of) caudal fin
@@ -13,7 +13,7 @@ abnormal tail	abnormally curved tail	ZP:0010319	Abnormal(ly) shape (of) tail bud
 abnormal body length		ZP:0012799	Abnormal(ly) length (of) whole organism
 abnormal body length	abnormally decreased body length	ZP:0000473	Abnormal(ly) decreased length (of) whole organism
 abnormal trunk		ZP:0003437	Abnormal(ly) morphology (of) trunk
-abnormal swim bladder		ZP:0001696	Abnormality of swim bladder
+abnormal swim bladder		ZP:0127709	Abnormality of swim bladder
 abnormal swim bladder	abnormally small swim bladder	ZP:0005125	Abnormal(ly) decreased size (of) swim bladder
 abnormal swim bladder	uninflated swim bladder	ZP:0001211	Abnormal(ly) uninflated (of) swim bladder
 abnormal swim bladder	absent swim bladder	ZP:0002944	Abnormal(ly) absent (of) swim bladder
