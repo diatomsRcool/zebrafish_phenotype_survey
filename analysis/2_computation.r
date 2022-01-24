@@ -63,39 +63,45 @@ for (annotation_type in c('general', 'granular')) {
   # ------------------------------------------------------------
   
   raters <- levels(df$Rater)
-  raterMeanConcordance <- setNames(cbind(
-    raters,
-    data.frame(do.call(rbind, lapply(raters, function(x) {
-      c(mean(df$Concur[df$Rater == x]),
-        mean(df$Concur[df$Rater == x & df$Survey == 1]),
-        mean(df$Concur[df$Rater == x & df$Survey == 2]))
-    })))
-  ), c('Rater', 'All', 'Survey1', 'Survey2'))
-  raterMeanConcordance <- rbind(
-    raterMeanConcordance,
-    c('mean', mean(raterMeanConcordance$All), mean(raterMeanConcordance$Survey1), mean(raterMeanConcordance$Survey2)),
-    c('sd',     sd(raterMeanConcordance$All),   sd(raterMeanConcordance$Survey1),   sd(raterMeanConcordance$Survey2))
+  out <- data.frame(
+    'Rater' = raters, 'All' = NA, 'Survey1' = NA, 'Survey2' = NA,
+    '#Disagree_Survey1' = NA, '#Concur_Survey1' = NA, '#Disagree_Survey2' = NA, '#Concur_Survey2' = NA,
+    'Fisher_p-value' = NA, check.names = F, stringsAsFactors = F
   )
-  write.csv(raterMeanConcordance, paste0('output/', annotation_type, '_mean_concordance_rater.csv'), row.names = F)
+  for ( i in seq_along(raters) ) {
+    idx <- df$Rater == raters[i]
+    tbl <- table(df$Concur[idx], df$Survey[idx])
+    fit <- fisher.test(as.matrix(tbl))
+    out[i,-1] <- c(sum(tbl[2,])/sum(tbl), tbl[2,1]/sum(tbl[,1]), tbl[2,2]/sum(tbl[,2]), tbl, fit$p.value)
+  }
+  out <- rbind(
+    out,
+    c('mean', mean(out$All), mean(out$Survey1), mean(out$Survey2), NA, NA, NA, NA, NA),
+    c('sd',     sd(out$All),   sd(out$Survey1),   sd(out$Survey2), NA, NA, NA, NA, NA)
+  )
+  write.csv(out, paste0('output/', annotation_type, '_mean_concordance_rater.csv'), row.names = F, na = '')
 
   # ------------------------------------------------------------
   # Annotation mean concordance
   # ------------------------------------------------------------
   
   annotations <- levels(df$Annotation)
-  annotMeanConcordance <- setNames(cbind(
-    annotations,
-    data.frame(do.call(rbind, lapply(annotations, function(x) {
-      c(mean(df$Concur[df$Annotation == x]),
-        mean(df$Concur[df$Annotation == x & df$Survey == 1]),
-        mean(df$Concur[df$Annotation == x & df$Survey == 2]))
-    })))
-  ), c('Annotation', 'All', 'Survey1', 'Survey2'))
-  annotMeanConcordance <- rbind(
-    annotMeanConcordance,
-    c('mean', mean(annotMeanConcordance$All), mean(annotMeanConcordance$Survey1), mean(annotMeanConcordance$Survey2)),
-    c('sd',     sd(annotMeanConcordance$All),   sd(annotMeanConcordance$Survey1),   sd(annotMeanConcordance$Survey2))
+  out <- data.frame(
+    'Annotation' = annotations, 'All' = NA, 'Survey1' = NA, 'Survey2' = NA,
+    '#Disagree_Survey1' = NA, '#Concur_Survey1' = NA, '#Disagree_Survey2' = NA, '#Concur_Survey2' = NA,
+    'Fisher_p-value' = NA, check.names = F, stringsAsFactors = F
   )
-  write.csv(annotMeanConcordance, paste0('output/', annotation_type, '_mean_concordance_annotation.csv'), row.names = F)
+  for ( i in seq_along(annotations) ) {
+    idx <- df$Annotation == annotations[i]
+    tbl <- table(df$Concur[idx], df$Survey[idx])
+    fit <- fisher.test(as.matrix(tbl))
+    out[i,-1] <- c(sum(tbl[2,])/sum(tbl), tbl[2,1]/sum(tbl[,1]), tbl[2,2]/sum(tbl[,2]), tbl, fit$p.value)
+  }
+  out <- rbind(
+    out,
+    c('mean', mean(out$All), mean(out$Survey1), mean(out$Survey2), NA, NA, NA, NA, NA),
+    c('sd',     sd(out$All),   sd(out$Survey1),   sd(out$Survey2), NA, NA, NA, NA, NA)
+  )
+  write.csv(out, paste0('output/', annotation_type, '_mean_concordance_annotation.csv'), row.names = F, na = '')
   
 }
